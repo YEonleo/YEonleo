@@ -1,11 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
-**YEonleo/YEonleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning NLP
+🏫 Gachon Univ. - Department of Software (2018 - )
+🔬 Research Assistant (BS&MS) - ISNLP. School of Computing, Gachon University (2022.10 - )
+📚 Studying Back-end & Server Development
+💻 Researching Natural Language Processing
 
 
 

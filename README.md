@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RyuSangYEON&fontSize=70)
 
 
-🏫 Gachon Univ. - Department of Software (2018 - )  
-🔬 Research Assistant (BS&MS) - ISNLP. School of Computing, Gachon University (2022.10 - )  
+🏫 Gachon Univ. - Department of Software  
+🔬 Research Assistant (BS&MS) - ISNLP. School of Computing, Gachon University  
 📚 Studying Back-end & Server Development  
 💻 Researching Natural Language Processing  
 

@@ -1,6 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RyuSangYEON&fontSize=70)
 
 
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/#EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+</div>
 
 🏫 Gachon Univ. - Department of Software  
 🔬 Research Assistant (BS&MS) - ISNLP. School of Computing, Gachon University  

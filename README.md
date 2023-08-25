@@ -10,12 +10,10 @@
 </div>
 <br/><br/><br/><br/>
 <div align=center><h1>📚 About me</h1></div>
-<div align=center> 
   🏫 Gachon Univ. - Department of Software  
   🔬 Research Assistant (BS&MS) - ISNLP. School of Computing, Gachon University  
   📚 Studying Natural language processing 
   💻 Researching Natural Language Processing  
-</div>
 
   
 <br/><br/><br/><br/>

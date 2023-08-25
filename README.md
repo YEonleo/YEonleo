@@ -9,11 +9,14 @@
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 </div>
 <br/><br/><br/><br/>
+
+
+
 <div align=center><h1>📚 About me</h1></div>
-🏫 Gachon Univ. - Department of Software <br> 
-🔬 Research Assistant (BS&MS) - ISNLP. School of Computing, Gachon University  <br> 
-📚 Studying Natural language processing <br> 
-💻 Researching Natural Language Processing  <br> 
+🏫 Gachon Univ. - Department of Software <br/> 
+🔬 Research Assistant (BS&MS) - ISNLP. School of Computing, Gachon University  <br/> 
+📚 Studying Natural language processing <br/> 
+💻 Researching Natural Language Processing  <br/> 
 
   
 <br/><br/><br/><br/>

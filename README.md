@@ -7,7 +7,7 @@
 📚 Studying Natural language processing 
 💻 Researching Natural Language Processing  
 
-<img src="https://img.shields.io/badge/{#EE4C2C}-{white}?style={social}&logo={pytorch}&logoColor={blue}"/>
+https://img.shields.io/badge/{Python}-{ffffff}?style=for-the-badge&logo={#EE4C2C}&logoColor={ffffff}
   
 <br/><br/><br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YEonleo&show_icons=true&theme=radical)

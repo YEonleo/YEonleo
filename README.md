@@ -18,7 +18,8 @@
   <p>Research + engineering for NLP pipelines, data quality, and reproducible datasets.</p>
 </div>
 
-<table>
+<div align="center">
+<table align="center">
   <tr>
     <td>
       <b>LACD</b><br/>
@@ -38,6 +39,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <br/>
 

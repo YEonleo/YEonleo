@@ -28,28 +28,20 @@
 <table>
   <tr>
     <td>
-      <b>CPA_datasets</b><br/>
-      Streamlit tool for reviewing CPA exam JSONL datasets.<br/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <br/>
-      <a href="https://github.com/YEonleo/CPA_datasets">Repo</a>
-    </td>
-    <td>
-      <b>Fiscal_leaderboard</b><br/>
-      Leaderboard & evaluation utilities for fiscal NLP tasks.<br/>
+      <b>LACD</b><br/>
+      Paper & code for LACD.<br/>
       <img src="https://img.shields.io/badge/NLP-111111?style=flat&logo=language&logoColor=white" />
-      <img src="https://img.shields.io/badge/Data-2EA043?style=flat&logo=databricks&logoColor=white" />
-      <br/>
-      <a href="https://github.com/YEonleo/Fiscal_leaderboard">Repo</a>
-    </td>
-    <td>
-      <b>fiscal‑leaderboard‑app</b><br/>
-      Lightweight UI for benchmarking and reporting.<br/>
-      <img src="https://img.shields.io/badge/App-0B5FFF?style=flat&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       <br/>
-      <a href="https://github.com/YEonleo/fiscal-leaderboard-app">Repo</a>
+      <a href="https://github.com/YEonleo/LACD">Repo</a>
+    </td>
+    <td>
+      <b>FractalLLM</b><br/>
+      Paper & code for FractalLLM.<br/>
+      <img src="https://img.shields.io/badge/LLM-0B5FFF?style=flat&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <br/>
+      <a href="https://github.com/YEonleo/FractalLLM">Repo</a>
     </td>
   </tr>
 </table>

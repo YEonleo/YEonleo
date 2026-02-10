@@ -18,13 +18,6 @@
   <p>Research + engineering for NLP pipelines, data quality, and reproducible datasets.</p>
 </div>
 
-<div align="center"><h3>Selected Papers</h3></div>
-
-<div align="center">
-  <p>📄 LACD</p>
-  <p>📄 Fractal</p>
-</div>
-
 <table>
   <tr>
     <td>

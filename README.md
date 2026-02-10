@@ -18,6 +18,7 @@
 <div align=center><h1>📚 About me</h1></div>
 🏫 Gachon Univ. - Department of Software <br/> 
 🔬 Research Assistant (BS&MS) - ISNLP. School of Computing, Gachon University  <br/> 
+🏢 ETRI 재정정책센터 석사후연구원  <br/>
 📚 Studying Natural language processing <br/> 
 💻 Researching Natural Language Processing  <br/> 
 

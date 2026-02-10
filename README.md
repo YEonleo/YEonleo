@@ -12,12 +12,59 @@
 
 <br/>
 
+<div align="center"><h2>🚀 Portfolio</h2></div>
+
+<div align="center">
+  <p>Research + engineering for NLP pipelines, data quality, and reproducible datasets.</p>
+</div>
+
+<table>
+  <tr>
+    <td>
+      <b>CPA_datasets</b><br/>
+      Streamlit tool for reviewing CPA exam JSONL datasets.<br/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <br/>
+      <a href="https://github.com/YEonleo/CPA_datasets">Repo</a>
+    </td>
+    <td>
+      <b>Fiscal_leaderboard</b><br/>
+      Leaderboard & evaluation utilities for fiscal NLP tasks.<br/>
+      <img src="https://img.shields.io/badge/NLP-111111?style=flat&logo=language&logoColor=white" />
+      <img src="https://img.shields.io/badge/Data-2EA043?style=flat&logo=databricks&logoColor=white" />
+      <br/>
+      <a href="https://github.com/YEonleo/Fiscal_leaderboard">Repo</a>
+    </td>
+    <td>
+      <b>fiscal‑leaderboard‑app</b><br/>
+      Lightweight UI for benchmarking and reporting.<br/>
+      <img src="https://img.shields.io/badge/App-0B5FFF?style=flat&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <br/>
+      <a href="https://github.com/YEonleo/fiscal-leaderboard-app">Repo</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <div align="center"><h2>✨ Now</h2></div>
 
 <div align="center">
   <p>🔎 Building NLP pipelines for structured data quality</p>
   <p>🧪 Researching practical NLP & information extraction</p>
   <p>🧩 Working on data curation and verification workflows</p>
+</div>
+
+<br/>
+
+<div align="center"><h2>🧭 About</h2></div>
+
+<div align="center">
+  <p>🎓 B.S. in Software, Gachon University</p>
+  <p>🔬 Research Assistant (BS&MS) — ISNLP, School of Computing, Gachon University</p>
+  <p>🏢 Post‑Master's Researcher — ETRI Fiscal Policy Center</p>
 </div>
 
 <br/>
@@ -31,16 +78,6 @@
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-</div>
-
-<br/>
-
-<div align="center"><h2>🧭 About</h2></div>
-
-<div align="center">
-  <p>🎓 B.S. in Software, Gachon University</p>
-  <p>🔬 Research Assistant (BS&MS) — ISNLP, School of Computing, Gachon University</p>
-  <p>🏢 Post‑Master's Researcher — ETRI Fiscal Policy Center</p>
 </div>
 
 <br/>

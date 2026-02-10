@@ -18,6 +18,13 @@
   <p>Research + engineering for NLP pipelines, data quality, and reproducible datasets.</p>
 </div>
 
+<div align="center"><h3>Selected Papers</h3></div>
+
+<div align="center">
+  <p>📄 LACD</p>
+  <p>📄 Fractal</p>
+</div>
+
 <table>
   <tr>
     <td>
@@ -59,6 +66,15 @@
 
 <br/>
 
+<div align="center"><h2>🏆 Awards</h2></div>
+
+<div align="center">
+  <p>2022 National Institute of Korean Language — Language Proficiency Assessment</p>
+  <p>2024 National Institute of Korean Language — Language Proficiency Assessment</p>
+</div>
+
+<br/>
+
 <div align="center"><h2>🧭 About</h2></div>
 
 <div align="center">
@@ -89,11 +105,4 @@
   <img src="https://img.shields.io/badge/Text%20Mining-0B5FFF?style=for-the-badge&logo=readme&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Curation-2EA043?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/ML%20Systems-8B5CF6?style=for-the-badge&logo=apachespark&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YEonleo&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YEonleo&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </div>

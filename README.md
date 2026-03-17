@@ -1,95 +1,77 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=RyuSangYEON&fontSize=70)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Sangyeon%20Ryu&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Post-Master's%20Researcher%20%40%20ETRI%20%7C%20NLP%20Specialist&descAlignY=55" />
+</div>
 
 <div align="center">
-  <h1>Hi, I'm Sangyeon 👋</h1>
-  <p>Post‑Master's Researcher @ ETRI Fiscal Policy Center • NLP</p>
-  <p>
-    <img src="https://img.shields.io/badge/NLP-111111?style=for-the-badge&logo=language&logoColor=white" />
-    <img src="https://img.shields.io/badge/ETRI-0B5FFF?style=for-the-badge&logo=academia&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gachon%20University-1F6FEB?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </p>
+  <a href="https://github.com/YEonleo">
+    <img src="https://img.shields.io/github/followers/YEonleo?style=for-the-badge&color=0B5FFF&logo=github&label=Followers" />
+  </a>
+  <img src="https://img.shields.io/badge/ETRI-Post--Master's%20Researcher-0B5FFF?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-Specialist-111111?style=for-the-badge&logo=language&logoColor=white" />
 </div>
 
 <br/>
 
-<div align="center"><h2>🚀 Portfolio</h2></div>
+<h3 align="center">
+  "Building robust NLP pipelines, data curation, and reproducible datasets."
+</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **Education:** B.S. in Software & Researcher (M.S.) — ISNLP Lab, **Gachon University**
+- 🏢 **Currently:** Post‑Master's Researcher at **ETRI Fiscal Policy Center**
+- 🔎 **Now:** Building NLP pipelines for structured data curation and checking verification workflows.
+- 💡 **Interests:** Information Extraction • Text Mining • Data Curation • ML Systems
+
+---
+
+## 🚀 Portfolio & Projects
+
+| Project | Description | Links |
+| :--- | :--- | :---: |
+| 🛡️ **LACD** | Research & code for **L**inguistic **A**cceptability of **C**ode-switched **D**ata. | [![Repo](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white)](https://github.com/YEonleo/LACD) |
+| 🧩 **FractalLLM** | Exploring repetitive or recursive patterns with **FractalLLM**. | [![Repo](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white)](https://github.com/YEonleo/FractalLLM) |
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
+</p>
+
+**Data Science & Scientific**
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Awards & Achievements
+
+- 🥇 **2024** | *National Institute of Korean Language* — Language Proficiency Assessment
+- 🎖️ **2022** | *National Institute of Korean Language* — Language Proficiency Assessment
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <p>Research + engineering for NLP pipelines, data quality, and reproducible datasets.</p>
-</div>
-
-<div align="center">
-<table align="center">
-  <tr>
-    <td>
-      <b>LACD</b><br/>
-      Paper & code for LACD.<br/>
-      <img src="https://img.shields.io/badge/NLP-111111?style=flat&logo=language&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <br/>
-      <a href="https://github.com/YEonleo/LACD">Repo</a>
-    </td>
-    <td>
-      <b>FractalLLM</b><br/>
-      Paper & code for FractalLLM.<br/>
-      <img src="https://img.shields.io/badge/LLM-0B5FFF?style=flat&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <br/>
-      <a href="https://github.com/YEonleo/FractalLLM">Repo</a>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br/>
-
-<div align="center"><h2>✨ Now</h2></div>
-
-<div align="center">
-  <p>🔎 Building NLP pipelines for structured data quality</p>
-  <p>🧪 Researching practical NLP & information extraction</p>
-  <p>🧩 Working on data curation and verification workflows</p>
-</div>
-
-<br/>
-
-<div align="center"><h2>🏆 Awards</h2></div>
-
-<div align="center">
-  <p>2022 National Institute of Korean Language — Language Proficiency Assessment</p>
-  <p>2024 National Institute of Korean Language — Language Proficiency Assessment</p>
-</div>
-
-<br/>
-
-<div align="center"><h2>🧭 About</h2></div>
-
-<div align="center">
-  <p>🎓 B.S. in Software, Gachon University</p>
-  <p>🔬 Research Assistant (BS&MS) — ISNLP, School of Computing, Gachon University</p>
-  <p>🏢 Post‑Master's Researcher — ETRI Fiscal Policy Center</p>
-</div>
-
-<br/>
-
-<div align="center"><h2>📚 Stacks</h2></div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+  <img src="https://github-readme-stats.vercel.app/api?username=YEonleo&show_icons=true&theme=transparent&hide_border=true&title_color=0B5FFF&icon_color=0B5FFF&text_color=333333" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YEonleo&theme=transparent&hide_border=true&stroke=0B5FFF&ring=0B5FFF&fire=0B5FFF&currStreakNum=333333" width="48%" />
 </div>
 
 <br/>
 
-<div align="center"><h2>🧠 Interests</h2></div>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Information%20Extraction-1F6FEB?style=for-the-badge&logo=semanticweb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Text%20Mining-0B5FFF?style=for-the-badge&logo=readme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Curation-2EA043?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML%20Systems-8B5CF6?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
 </div>
